@@ -167,7 +167,7 @@ Heal to full.
   :::
   :::pokemon[Cranidos]{baseStats="[67, 125, 40, 30, 30, 58]" ivs="[0, 0, 0, 0, 0, 0]" type="Rock" level=14 nature="Jolly"}
     - Revenge (x2)  
-    Headbutt Deals 10+ Damage
+    Headbutt Deals 11-16 Damage, OHKO on Crit 50%
   :::
 :::::
 
@@ -584,6 +584,8 @@ Leave the department store and get the metronome from the Girafarig trainer.
 
 Head to the Gym.
 
+![](https://raw.githubusercontent.com/DaWenning/BDSP_Kazza/main/assets/Veilstone.png)
+
 :::::trainer[Black Belt Rafael]
   :::pokemon[Meditite]
     - Psychic[9]
@@ -652,6 +654,7 @@ After the fight:
 
 **DO NOT GET FREE HEAL**
 
+![](https://raw.githubusercontent.com/DaWenning/BDSP_Kazza/main/assets/calcium_2.png)
 Pick up hidden Calcium next to tuber spinner.
 
 Pick up the two Rawst Berries (The second tree from the left).
@@ -659,7 +662,7 @@ Pick up the two Rawst Berries (The second tree from the left).
 Head to the gym after reaching Pastoria.
 
 Drop repel when it runs out.
-
+![](https://raw.githubusercontent.com/DaWenning/BDSP_Kazza/main/assets/DP_Weideburg-Arena_2.png)
 Press the yellow button, then the green button near Wake.
 
 :::::trainer[Sailor Damian]
