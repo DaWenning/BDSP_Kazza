@@ -195,12 +195,13 @@ At the crossing in Jubilife, head north to Rowan.
   :::pokemon[Wurmple]
     - Ember (x2)
     
-    :card{theme="neutral"}
+    :card{theme="warning"}
       Teach Power-Up Punch over Scratch (Slot 1) if not done so yet.
     :
   :::
   :::pokemon[Zubat]
     - Ember x2
+    > ** :info[Teach Power-Up Punch over Scratch (Slot 1) if not done so yet.]{color=red} **
   :::
 :::::
 
