@@ -44,6 +44,8 @@
 
 **This is a port of Wartab's Route into Ranger! Please give all the credit to him!**
 
+BDSP Trainer Data: https://docs.google.com/spreadsheets/d/1_uRpnFWroeCY3RaRi4lXeS9uZEDXiRIMBtTQVGrIZ3w/edit#gid=773204596
+
 Optimal mashing is to switch between pressing A, ZL, and ZR. You must continue mashing throughout the textbox, unlike previous games. :info[Or buy a turbo controller because mashing in this game sucks.]{color=gray}
 
 If you know where all the items are, you can turn off images by clicking the options button at the top of these notes.
@@ -121,9 +123,9 @@ Talk to the three Poketch Clowns and get the Poketch from the Poketch inventor.
     - Ember x3/x4
     :damage[Starly's Tackle/Quick Attack]{source="Chimchar" offensive=false movePower=40 opponentLevel=7 special=false type="Normal"}
   :::  
-  :::pokemon[Piplup]
+  :::pokemon[Piplup]{baseStats="[53, 51, 53, 51, 56, 40]" ivs="[11, 11, 11, 11, 11, 11]" nature="Bashful" type="Water" level=9 nature="Timid"}
     - Ember x8-x11
-    :damage[Pound]{source="Chimchar" offensive=false movePower=40 opponentLevel=9 special=false type="Normal"}
+    :damage[Pound]{source="Chimchar" offensive=false movePower=40 opponentLevel=8 special=false type="Normal"}
   :::
 :::::
 
