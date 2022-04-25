@@ -522,7 +522,7 @@ Pick up the Ether in the pokeball by the jogger.
 
 Pick up Shock Wave.
   - Switch Kadabra to the front. 
-  :info[**Teach Shock Wave to Kadabra over Psycho Cut (Slot 3).**]{color=red}
+  - :info[**Teach Shock Wave to Kadabra over Psycho Cut (Slot 3).**]{color=red}
 
 Fight the top Ace Trainer first.
 
@@ -698,7 +698,7 @@ Press the green button, then head down and press the orange button.
     - Confusion
   :::
   :::pokemon[Shellos]
-    - Shock Wave[16]
+    - Shock Wave[16]  
     :info[**Teach Psyshock over Confusion (Slot 2).**]{color=red}
   :::
 :::::
