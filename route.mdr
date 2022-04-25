@@ -194,6 +194,7 @@ At the crossing in Jubilife, head north to Rowan.
 :::::trainer[Team Galactic Double]
   :::pokemon[Wurmple]
     - Ember (x2)
+    :info[Teach Power-Up Punch over Scratch]{color=red}
     - Teach Power-Up Punch over Scratch (Slot 1) if not done so yet.
   :::
   :::pokemon[Zubat]
