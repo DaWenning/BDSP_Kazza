@@ -123,6 +123,7 @@ Talk to the three Poketch Clowns and get the Poketch from the Poketch inventor.
   :::  
   :::pokemon[Piplup]
     - Ember x8-x11
+    :damage[Pound]{source="Chimchar" offensive=false movePower=40 opponentLevel=9 special=false type="Normal"}
   :::
 :::::
 
