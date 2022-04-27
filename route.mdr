@@ -168,7 +168,8 @@ Heal to full.
   :::
   :::pokemon[Cranidos]{baseStats="[67, 125, 40, 30, 30, 58]" ivs="[0, 0, 0, 0, 0, 0]" type="Rock" level=14 nature="Jolly"}
     - Revenge (x2)  
-    :::card{theme="info"}
+    :::card{theme="info"}  
+      **Headbutt Info**  
       | DEF | Range | CRIT |  
       |-----|-------|------|  
       | 14  | 13 - 16 | 38 - 45 |  
