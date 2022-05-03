@@ -515,9 +515,9 @@ Withdraw Kadabra to Slot 2.
 
 Escape Rope out and continue heading north.
 
-You can ignore the doubles. Avoid the spinner by going through the grass.
+You CAN NOT ignore the doubles, so go behind them in the Grass. Avoid the spinner by going through the grass.
 
-At the milk house, head east.
+At the milk house, head east, watch out for breeder spinner.
 
 :::::::trainer[Ruin Maniac Calvin]
   :::::pokemon[Bronzor]
@@ -781,6 +781,7 @@ Head north and talk to Cynthia.
 Head north and **walk in the grass behind the double battle**. Medicine those Psyducks up. Head north to the fog route. Head west through the grass.
 
 Use Defog from the Poketch if you got it. Otherwise, pray for spinner passes. (Hold R to make it appear/disappear, HM app is #20)
+![](https://raw.githubusercontent.com/DaWenning/BDSP_Kazza/main/assets/Route210.png)
 
 :::::trainer[Ace Trainer Alyssa]
   :::pokemon[Ponyta]
@@ -792,7 +793,7 @@ Use Defog from the Poketch if you got it. Otherwise, pray for spinner passes. (H
 :::::
 
 - Get TM30 Shadow ball 
-- _Watch out for the ninja!_
+- _Watch out for the ninja after the first Bike Route!_
 
 :::::trainer[Black Belt Adam]
   :::pokemon[Machoke]
@@ -898,6 +899,8 @@ If you took damage from Staravia (otherwise delay this menu to after Ricky):
     - Shadow Ball x2[13]
   :::
 :::::
+
+![](https://raw.githubusercontent.com/DaWenning/BDSP_Kazza/main/assets/Canalave_Gym.png)
 
   - Heal to 80+ HP.
   - Do menu from above if you have not done it yet.
