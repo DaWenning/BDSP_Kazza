@@ -530,7 +530,8 @@ At the milk house, head east, watch out for breeder spinner.
   :::::
 :::::::
 
-Pick up the Ether in the pokeball by the jogger.
+Pick up the Ether in the pokeball by the jogger.  
+Pickup TM66s Payback from the Blackbelt before the second bridge.  
 
 Pick up Shock Wave.
   - Switch Kadabra to the front. 
@@ -572,7 +573,8 @@ Take the escalator to the third floor.
   - 3x TM96
 
 **Buy:**
- - TM35 Flamethrower (R^)
+ - TM24 Thunderbolt (R)
+ - TM35 Flamethrower (^)
  - TM29 Psychic (vvvv)
  - TM21 Dazzling Gleam (v)
 
@@ -1353,7 +1355,7 @@ Gym Puzzle: Green x2 then Blue
     - Shadow Ball[7]
   :::::
 :::::::
-
+Go back Down and red once  
 :::::trainer[Gym Leader Volkner]
   :::pokemon[Raichu]
     - Psychic[8]
@@ -1413,7 +1415,7 @@ Go Left until the stairs, then up the stairs until you see the Ace Trainer.
   :::
 :::::
 Go all the way up and get safety max elixir out of rock, then go down back to the double stairs.  
-Rocksmash down, Solve the STrength Puzzle !()[https://recklessgreed.de/images/0t5a63ohy3.png] then left until  
+Rocksmash down, Solve the STrength Puzzle ![](https://recklessgreed.de/images/0t5a63ohy3.png) then left until  
 
 :::::trainer[Ace Trainer Omar]
   :::pokemon[Rapidash]
@@ -1427,7 +1429,7 @@ Rocksmash down, Solve the STrength Puzzle !()[https://recklessgreed.de/images/0t
   :::
 :::::
 
-!()[https://recklessgreed.de/images/op02396pmr.png]
+![](https://recklessgreed.de/images/op02396pmr.png)
 
 :::::trainer[Ace Trainer Sydney]
   :::pokemon[Clefable]
@@ -1489,7 +1491,7 @@ Go Left
     - Thunderbolt[13]
   :::
 :::::
-!()[https://recklessgreed.de/images/cnrbi12yyx.png]
+![](https://recklessgreed.de/images/cnrbi12yyx.png)
 Go down after right before the ledge and rock climb up 
 
 :::::trainer[Dragon Tamer Clinton]
